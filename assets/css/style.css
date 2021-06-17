@@ -2392,11 +2392,11 @@ select {
 }
 
 .background-color--default-overlay {
-	background-color: rgba(250, 188, 61, 0.9);
+	background-color: rgba(0, 164, 78, 1);
 }
 
 .background-color--default-light-overlay {
-	background-color: rgba(250, 188, 61, 0.8);
+	background-color: ;
 }
 
 /*=====  End of backgrounds  ======*/
@@ -2650,7 +2650,7 @@ select {
 	height: 100%;
 	content: "";
 	opacity: 0.6;
-	background-color: #000000;
+	background-color: ;
 }
 
 .single-hero-slider__abs-img {
